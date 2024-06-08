@@ -1,3 +1,5 @@
 Name:sagar,batch:da6
 Name:Darwin,batch:DA-6
 Name:git_check_1,Batch:git
+Name: Akash,batch:da/6
+Name:Hites Thaware:/DA_6
